@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="holo_blue_light">#FF33B5E5</color>
+    <color name="holo_blue_dark">#FF0099CC</color>
+    <color name="holo_red_light">#FFFF4444</color>
+    <color name="holo_red_dark">#FFCC0000</color>
+    <color name="holo_purple_light">#FFAA66CC</color>
+    <color name="holo_purple_dark">#FF9933CC</color>
+    <color name="holo_green_light">#FF99CC00</color>
+    <color name="holo_green_dark">#FF669900</color>
+    <color name="holo_orange_light">#FFFFBB33</color>
+    <color name="holo_orange_dark">#FFFF8800</color>
+    <color name="black">#333333</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_transparent_50">#80333333</color>
+    <color name="white_transparent_50">#80FFFFFF</color>
+    <color name="white_transparent_75">#BFFFFFFF</color>
+    <color name="white_transparent_85">#D9FFFFFF</color>
+    <color name="holo_blue_light_transparent_50">#8033B5E5</color>
+    <color name="holo_blue_dark_transparent_50">#800099CC</color>
+    <color name="holo_red_light_transparent_50">#80FF4444</color>
+    <color name="holo_red_dark_transparent_50">#80CC0000</color>
+    <color name="holo_purple_light_transparent_50">#80AA66CC</color>
+    <color name="holo_purple_dark_transparent_50">#809933CC</color>
+    <color name="holo_green_light_transparent_50">#8099CC00</color>
+    <color name="holo_green_dark_transparent_50">#80669900</color>
+    <color name="holo_orange_light_transparent_50">#80FFBB33</color>
+    <color name="holo_orange_dark_transparent_50">#80FF8800</color>
+
+</resources>

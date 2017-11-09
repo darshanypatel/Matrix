@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Matrix</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_events">Events</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_about_us">About us</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_start">first_start</string>
+<string name="aboutUsText">A rendezvous for students to showcase their techn talent, Bharatiya Vidya
+
+    Bhavan’s Sardar Patel Institute of Technology (S.P.I.T.), Mumbai proudly launches its
+
+    technical fest, Matrix.
+
+    Being in our nascent stage, we aim to up the technical quotient of S.P.I.T. with our tagline, ’Wake Up
+
+    For You Are a Genius!’ urging every individual to invoke their latent talent and revel in the joys of
+
+    technology and innovation.
+
+    To make sure Matrix 2014 wishes to capture the interest of one and all, encompassing a range of technical as well as non technical events.
+
+    So this 26 - 27 September ,Matrix is the place to be.</string>
+</resources>

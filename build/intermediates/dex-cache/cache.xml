@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Matrix Test Projects\Matrix_\app\build\intermediates\pre-dexed\debug\classes-6a30ee9a0a0cd75418917d2a69e8102d270123a5.jar"
+        jar="C:\Matrix Test Projects\Matrix_\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Matrix Test Projects\Matrix_\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-79e42da7c2657068d681cf877be8b4cc06e3cb7a.jar"
+        jar="C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Matrix Test Projects\Matrix_\app\build\intermediates\pre-dexed\debug\classes-f0998f035030ad4aadc6af3baf4d7880adee57ab.jar"
+        jar="C:\Matrix Test Projects\Matrix_\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+    <item
+        dex="C:\Matrix Test Projects\Matrix_\app\build\intermediates\pre-dexed\debug\classes-58d827e332e591f8064500f4eab3a8c83e05364c.jar"
+        jar="C:\Matrix Test Projects\Matrix_\app\build\intermediates\exploded-aar\com.astuetz\pagerslidingtabstrip\1.0.1\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6"/>
+    <item
+        dex="C:\Matrix Test Projects\Matrix_\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-f49c5da11087fc902b118a8da089f5a805504a1c.jar"
+        jar="C:\Matrix Test Projects\Matrix_\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>
